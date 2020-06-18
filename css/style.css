@@ -1,0 +1,379 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 780px;
+    width: 100%;
+    background: linear-gradient(291.89deg, #000000 3.28%, #002347 68.98%, #002B58 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav {
+    height: 8%;
+    width: 97%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.blok1{
+height: 80%;
+width: 45%;
+display: flex;
+justify-content: center;
+}
+
+.blok2{
+    height: 80%;
+    width: 17%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+  width: 18%;
+  height: 100%;
+}
+.joomag-logo{
+    width: 100%;
+    height: 100%;
+}
+.topnav{
+    width: 82%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+} 
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+}
+
+.blok1 a{
+    width: 25%;  
+}
+.log-in{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Free-Trial{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Free-Trial-btn{
+    width: 133.03px;
+    height: 37px;
+    background: #2836FD;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper {
+    height: 92%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boundaries {
+    height: 100%;
+    width: 49.8%;
+}
+
+.boundaries-text {
+    height: 50%;
+    width: 100%;
+    text-align: initial;
+    font-size: 48px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+}
+
+.boundaries-text div {
+    height: 40%;
+    width: 70%;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    color: white;
+}
+
+.boundaries-content {
+    height: 50%;
+    width: 100%;
+    font-size: 40px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.boundaries-content div {
+    height: 40%;
+    width: 70%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.frame {
+    height: 100%;
+    width: 49.8%;
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    height: 80%;
+    width: 90%;
+}
+
+.image img {
+    height: 100%;
+    width: 100%;
+}
+
+
+.main {
+    height: 1460px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.wi {
+    width: 60%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.wi .content {
+
+    display: flex;
+    justify-content: space-between;
+    height: 60%;
+
+
+}
+
+.content div {
+    flex: 1;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+.content h3 {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.wi .text {
+
+    display: inline-block;
+    width: 100%;
+    height: 30%;
+}
+
+h1,
+h2,
+.line {
+    margin-left: 9px;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 42px;
+    color: black;
+}
+
+.live-chat-support {
+    margin-left: 8px;
+    width: 121px;
+    height: 100px;
+
+}
+
+.quick-response-times {
+    margin-left: 8px;
+    width: 121px;
+    height: 100px;
+}
+
+.a-team-full-of-talent {
+    margin-left: 8px;
+    width: 121px;
+    height: 100px;
+}
+
+.continuous-improvement {
+    margin-left: 8px;
+    width: 121px;
+    height: 100px;
+}
+
+.customer {
+
+    width: 60%;
+    height: 30%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+
+.sections {
+    width: 47%;
+    align-items: center;
+}
+
+.text2 {
+    width: 47%;
+
+
+}
+
+.coloreblue {
+    color: #2863FD;
+
+}
+
+.contact-us {
+    width: 100%;
+    height: 344px;
+    background: linear-gradient(291.89deg, #000000 3.28%, #002347 68.98%, #002B58 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.contact-us-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.contact-us-content-text {
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colorWhite {
+    color: white;
+}
+
+.chat-now-div {
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chat-now-btn {
+    width: 133.03px;
+    height: 37px;
+    background: #2836FD;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.customer-say {
+    height: 920px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.customer-say-content {
+    height: 80%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.text3 {
+    width: 100%;
+}
+
+.content2 {
+    width: 95%;
+    height: 410px;
+    background: #002B58;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+.content-div {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.content2-text {
+    height: 80%;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* font-size: 18px;
+    line-height: 27px; */
+    color: #FFFFFF;
+
+}
+
+.Andy {
+    height: 20%;
+    width: 70%;
+    color: #FFFFFF;
+}
+
+.Andy-say {
+    float: right;
+}
